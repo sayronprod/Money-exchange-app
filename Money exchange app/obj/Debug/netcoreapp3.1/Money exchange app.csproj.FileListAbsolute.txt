@@ -1,0 +1,77 @@
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.exe
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.deps.json
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.runtimeconfig.json
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.runtimeconfig.dev.json
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.Views.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Money exchange app.Views.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.AssemblyInfoInputs.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.AssemblyInfo.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.csproj.CoreCompileInputs.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.RazorAssemblyInfo.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.RazorAssemblyInfo.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\staticwebassets\Money exchange app.StaticWebAssets.Manifest.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\staticwebassets\Money exchange app.StaticWebAssets.xml
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\scopedcss\bundle\Money exchange app.styles.css
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.TagHelpers.input.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.TagHelpers.output.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.RazorCoreGenerate.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\Home\History.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.RazorTargetAssemblyInfo.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.RazorTargetAssemblyInfo.cs
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.Views.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.csproj.CopyComplete
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.dll
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.pdb
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.genruntimeconfig.cache
+C:\Users\cools\source\repos\Money exchange app\Money exchange app\obj\Debug\netcoreapp3.1\Money exchange app.csprojAssemblyReference.cache

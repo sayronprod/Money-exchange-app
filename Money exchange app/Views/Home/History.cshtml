@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "History";
+}
+<h1>@ViewData["Title"]</h1>
+<table class="table table-striped">
+    <tr>
+        <th>Id</th>
+        <th>FromCurrency</th>
+        <th>FromAmount</th>
+        <th>ToCurrency</th>
+        <th>ToAmount</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" id="Id" class="form-control" />
+        </td>
+        <td>
+            <select id="FromCurrency" asp-items="ViewBag.Currencys" class="form-control">
+                <option selected>All</option>
+            </select>
+        </td>
+        <td>
+            <input type="text" id="FromAmount" class="form-control" />
+        </td>
+        <td>
+            <select id="ToCurrency" asp-items="ViewBag.Currencys" class="form-control">
+                <option selected>All</option>
+            </select>
+        </td>
+        <td>
+            <input type="text" id="ToAmount" class="form-control" />
+        </td>
+        <td>
+            <input type="text" id="Date" class="form-control" />
+        </td>
+        <td class="border-top-0">
+            <input type="button" value="Filter" class="btn btn-primary" onclick="SetFilter()" />
+        </td>
+    </tr>
+
+    @foreach (var item in ViewBag.HistoryData)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FromCurrency</td>
+            <td>@item.FromAmount</td>
+            <td>@item.ToCurrency</td>
+            <td>@item.ToAmount</td>
+            <td>@item.Date</td>
+        </tr>
+    }
+
+</table>
+

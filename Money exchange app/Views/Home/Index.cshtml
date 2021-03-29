@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Money exchange app";
+}
+
+
+<form name="ExchangeForm" onsubmit="ToExchange(event)">
+    <div class="form-row">
+        <div class="form-group col-md-3">
+            <label for="From" class="float-left">Amount</label>
+            <input type="text" class="form-control" id="From" name="From">
+        </div>
+        <div class="form-group col-md-1 align-self-end">
+            <select class="form-control" name="FromCurrency" asp-items="ViewBag.Currencys">
+            </select>
+        </div>
+        <div class="form-group col-md-1 align-self-end text-center">
+            <button type="button" class="btn btn-default mr-auto" onclick="swap()">
+                <span><></span>
+            </button>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="To" class="float-left">Converted To</label>
+            <input type="text" class="form-control" id="To" name="To">
+        </div>
+        <div class="form-group col-md-1 align-self-end">
+            <select class="form-control" name="ToCurrency" asp-items="ViewBag.Currencys">
+            </select>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-4">
+            <h5 id="cost"></h5>
+        </div>
+        <div class="col-md-3 offset-md-8">
+            <button type="submit" class="btn btn-success">Exchange</button>
+        </div>
+    </div>
+</form>
